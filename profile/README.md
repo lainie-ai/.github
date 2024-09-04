@@ -1,0 +1,3 @@
+LAINIE.ai is building its own proprietary methods for developing contextually relevant and accurate models. The CEO Thomas Underhill started from a spark of an idea aimed at democratizing legal resources to the tangible challenges of bringing that vision to life. LAINIE.ai evolved from a concept to a revolutionary player in the legal tech space. By pioneering AI-driven legal solutions, LAINIE.ai is making legal services more accessible and efficient, transforming the landscape of legal technology and services.
+
+We have made the difficult decision to wind down LAINIE as a company after failing to secure investment to continue. Our CEO is joining another company in September 2024. However, we will start a conversion of the business logic into an open-source project here.
